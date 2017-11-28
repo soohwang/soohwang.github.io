@@ -48,9 +48,13 @@ a:focus {
 }
 /*-- header_top --*/
 .sidebar{
-  background:#6ecadc;
+  background:#6ecadd;
   top: 0px;
+<<<<<<< HEAD
   padding: 2em 30px;
+=======
+  padding:1em 30px;
+>>>>>>> e4cc412a206c8ddb2a625be126c60b3ca1ba1edb
 }
 .sidebar h1{
 	width:100%;
